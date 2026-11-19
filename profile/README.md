@@ -2,11 +2,11 @@
   <img src="./flaset-banner.png" alt="An orange sphere with three small ones in orbit, drawn in sand." width="100%">
 </p>
 
-# FLASET
+# Flaset
 
 **Flash settlement in one transaction.**
 
-FLASET puts several onchain steps in one atomic transaction, and when one step fails the whole transaction reverts,
+Flaset puts several onchain steps in one atomic transaction, and when one step fails the whole transaction reverts,
 so everything succeeds or nothing happens.
 
 Its first product is Flash Deals, which sells a token for payment in one transaction and puts any vested share into
