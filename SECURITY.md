@@ -6,7 +6,7 @@ Write to **security@flaset.com**, the address in [flaset.ai/.well-known/security
 or use "Report a vulnerability" on the Security tab of the repository concerned. Do not open a public issue for a
 security problem.
 
-Please include what you found, how to reproduce it, and what an attacker could do with it.
+Include what you found, how to reproduce it and what an attacker could do with it.
 
 ## Scope
 
@@ -21,4 +21,4 @@ Each repository's own SECURITY.md lists what is in and out of scope for that cod
 Test on a fork or a test network, never against other people's funds on mainnet. Nobody from FLASET ever asks for
 your seed phrase or private key.
 
-We reply as fast as we can and credit reporters who want to be credited.
+We reply as fast as we can and credit reporters who want credit.
