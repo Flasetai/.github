@@ -9,15 +9,14 @@ Include what you found, how to reproduce it and what an attacker could do with i
 
 ## Scope
 
-- The FLASET contracts at the addresses on [flaset.ai](https://flaset.ai), and their source in this organization's
-  repositories.
-- The FLASET app and website at flaset.ai.
+- The contracts at the addresses on [flaset.ai](https://flaset.ai), and their source in this organization's repositories.
+- The app and website at flaset.ai.
 
 Each repository's own SECURITY.md lists what is in and out of scope for that code.
 
 ## Rules for testing
 
-Test on a fork or a test network, never against other people's funds on mainnet. Nobody from FLASET ever asks for
+Test on a fork or a test network, never against other people's funds on mainnet. We never ask for
 your seed phrase or private key.
 
 We reply as fast as we can and credit reporters who want credit.
