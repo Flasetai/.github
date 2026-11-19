@@ -2,7 +2,7 @@
 
 ## Report a vulnerability
 
-Write to **security@flaset.com**. Do not open a public issue for a security problem.
+Write to **security@flaset.com**.
 
 Include what you found, how to reproduce it and what an attacker could do with it.
 
