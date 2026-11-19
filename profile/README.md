@@ -22,5 +22,3 @@ a vesting stream for the buyer that nobody can cancel. It runs on Robinhood Chai
 | Repository | What it is |
 |---|---|
 | [flash-deals](https://github.com/Flasetai/flash-deals) | The Flash Deals contracts exactly as deployed and verified, with their tests |
-
-The code of the app and the website is private. The Flash Deals contracts are open source in flash-deals.
